@@ -1,0 +1,24 @@
+{
+  "name": "github-grabber",
+  "version": "1.0.0",
+  "description": "",
+  "main": "github_grabber.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon github_grabber.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rmurphy178/github-grabber.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rmurphy178/github-grabber/issues"
+  },
+  "homepage": "https://github.com/rmurphy178/github-grabber#readme",
+  "dependencies": {
+    "nodemon": "^1.12.1"
+  }
+}
